@@ -21,6 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzeeltechie&show_icons=true&locale=en&layout=compact" alt="tanzeeltechie" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeeltechie&show_icons=true&locale=en" alt="tanzeeltechie" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzeeltechie&show_icons=true&locale=en" alt="tanzeeltechie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzeeltechie&" alt="tanzeeltechie" /></p>
