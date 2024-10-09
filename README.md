@@ -1,3 +1,4 @@
+![logo](https://github.com/TanzeelTechie/TanzeelTechie/blob/main/TanzeelTechie.png)
 <h1 align="center">Hi 👋, I'm TanzeelTechie</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
